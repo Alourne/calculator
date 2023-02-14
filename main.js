@@ -1,7 +1,5 @@
 function math() { 
 
-
-
     function add(num1,num2) {
         let x = num1 + num2;
         return parseInt(x);
@@ -23,10 +21,10 @@ function math() {
 
     }
 
-let x = window.prompt("choose 1 number");
-let y = window.prompt("choose 2nd number");
+// let x = window.prompt("choose 1 number");
+// let y = window.prompt("choose 2nd number");
     
-console.log(mult(x , y));
+// console.log(mult(x , y));
 
 }
 
